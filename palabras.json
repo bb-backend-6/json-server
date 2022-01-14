@@ -1,0 +1,1058 @@
+{
+  "words": [
+    {
+      "word": "give",
+      "phonetic": "ɡɪv",
+      "id": 1
+    },
+    {
+      "word": "to",
+      "phonetic": "tə",
+      "id": 2
+    },
+    {
+      "word": "walk",
+      "phonetic": "wɔːk",
+      "id": 3
+    },
+    {
+      "word": "to",
+      "phonetic": "tə",
+      "id": 4
+    },
+    {
+      "word": "stand",
+      "phonetic": "stand",
+      "id": 5
+    },
+    {
+      "word": "up",
+      "phonetic": "ʌp",
+      "id": 6
+    },
+    {
+      "word": "fight",
+      "phonetic": "fʌɪt",
+      "id": 7
+    },
+    {
+      "word": "perception",
+      "id": 8
+    },
+    {
+      "word": "people's",
+      "id": 9
+    },
+    {
+      "word": "of",
+      "id": 10
+    },
+    {
+      "word": "we",
+      "id": 11
+    },
+    {
+      "word": "move",
+      "id": 12
+    },
+    {
+      "word": "us",
+      "id": 13
+    },
+    {
+      "word": "is",
+      "id": 14
+    },
+    {
+      "word": "based",
+      "id": 15
+    },
+    {
+      "word": "our",
+      "id": 16
+    },
+    {
+      "word": "hands",
+      "id": 17
+    },
+    {
+      "word": "the",
+      "id": 18
+    },
+    {
+      "word": "way",
+      "id": 19
+    },
+    {
+      "word": "we",
+      "id": 20
+    },
+    {
+      "word": "look",
+      "id": 21
+    },
+    {
+      "word": "is",
+      "id": 22
+    },
+    {
+      "word": "not",
+      "id": 23
+    },
+    {
+      "word": "only",
+      "id": 24
+    },
+    {
+      "word": "as",
+      "id": 25
+    },
+    {
+      "word": "on",
+      "id": 26
+    },
+    {
+      "word": "our",
+      "id": 27
+    },
+    {
+      "word": "important",
+      "id": 28
+    },
+    {
+      "word": "as",
+      "id": 29
+    },
+    {
+      "word": "but",
+      "id": 30
+    },
+    {
+      "word": "the",
+      "id": 31
+    },
+    {
+      "word": "also",
+      "id": 32
+    },
+    {
+      "word": "characteristics",
+      "id": 33
+    },
+    {
+      "word": "physical",
+      "id": 34
+    },
+    {
+      "word": "on",
+      "id": 35
+    },
+    {
+      "word": "vocabulary",
+      "id": 36
+    },
+    {
+      "word": "the",
+      "id": 37
+    },
+    {
+      "word": "and",
+      "id": 38
+    },
+    {
+      "word": "expressions",
+      "id": 39
+    },
+    {
+      "word": "we",
+      "id": 40
+    },
+    {
+      "word": "use",
+      "id": 41
+    },
+    {
+      "word": "or",
+      "id": 42
+    },
+    {
+      "word": "tone",
+      "id": 43
+    },
+    {
+      "word": "of",
+      "id": 44
+    },
+    {
+      "word": "voice",
+      "id": 45
+    },
+    {
+      "word": "way",
+      "id": 46
+    },
+    {
+      "word": "or",
+      "id": 47
+    },
+    {
+      "word": "we",
+      "id": 48
+    },
+    {
+      "word": "the",
+      "id": 49
+    },
+    {
+      "word": "express",
+      "id": 50
+    },
+    {
+      "word": "both",
+      "id": 51
+    },
+    {
+      "word": "emphasis",
+      "id": 52
+    },
+    {
+      "word": "ourselves",
+      "id": 53
+    },
+    {
+      "word": "verbally",
+      "id": 54
+    },
+    {
+      "word": "we",
+      "id": 55
+    },
+    {
+      "word": "make",
+      "id": 56
+    },
+    {
+      "word": "let's",
+      "id": 57
+    },
+    {
+      "word": "see",
+      "id": 58
+    },
+    {
+      "word": "what",
+      "id": 59
+    },
+    {
+      "word": "we",
+      "id": 60
+    },
+    {
+      "word": "can",
+      "id": 61
+    },
+    {
+      "word": "think",
+      "id": 62
+    },
+    {
+      "word": "and",
+      "id": 63
+    },
+    {
+      "word": "nonverbally",
+      "id": 64
+    },
+    {
+      "word": "when",
+      "id": 65
+    },
+    {
+      "word": "it",
+      "id": 66
+    },
+    {
+      "word": "making",
+      "id": 67
+    },
+    {
+      "word": "comes",
+      "id": 68
+    },
+    {
+      "word": "of",
+      "id": 69
+    },
+    {
+      "word": "other",
+      "id": 70
+    },
+    {
+      "word": "people",
+      "id": 71
+    },
+    {
+      "word": "from",
+      "id": 72
+    },
+    {
+      "word": "their",
+      "id": 73
+    },
+    {
+      "word": "an",
+      "id": 74
+    },
+    {
+      "word": "particularities",
+      "id": 75
+    },
+    {
+      "word": "impression",
+      "id": 76
+    },
+    {
+      "word": "way",
+      "id": 77
+    },
+    {
+      "word": "the",
+      "id": 78
+    },
+    {
+      "word": "we",
+      "id": 79
+    },
+    {
+      "word": "dress",
+      "id": 80
+    },
+    {
+      "word": "the",
+      "id": 81
+    },
+    {
+      "word": "way",
+      "id": 82
+    },
+    {
+      "word": "we",
+      "id": 83
+    },
+    {
+      "word": "way",
+      "id": 84
+    },
+    {
+      "word": "the",
+      "id": 85
+    },
+    {
+      "word": "pitch",
+      "id": 86
+    },
+    {
+      "word": "san",
+      "phonetic": "san",
+      "id": 87
+    },
+    {
+      "word": "a",
+      "phonetic": "ə",
+      "id": 88
+    },
+    {
+      "word": "andres",
+      "id": 89
+    },
+    {
+      "word": "island",
+      "phonetic": "ˈʌɪlənd",
+      "id": 90
+    },
+    {
+      "word": "place",
+      "phonetic": "pleɪs",
+      "id": 91
+    },
+    {
+      "word": "remember",
+      "phonetic": "rɪˈmɛmbə",
+      "id": 92
+    },
+    {
+      "word": "a",
+      "phonetic": "ə",
+      "id": 93
+    },
+    {
+      "word": "colombian",
+      "phonetic": "kəˈlɒmbɪən",
+      "id": 94
+    },
+    {
+      "word": "island",
+      "phonetic": "ˈʌɪlənd",
+      "id": 95
+    },
+    {
+      "word": "in",
+      "phonetic": "ɪn",
+      "id": 96
+    },
+    {
+      "word": "caribbean",
+      "phonetic": "ˌkarɪˈbiːən",
+      "id": 97
+    },
+    {
+      "word": "climate",
+      "phonetic": "ˈklʌɪmət",
+      "id": 98
+    },
+    {
+      "word": "generally",
+      "phonetic": "ˈdʒɛn(ə)rəli",
+      "id": 99
+    },
+    {
+      "word": "same",
+      "phonetic": "seɪm",
+      "id": 100
+    },
+    {
+      "word": "sunny",
+      "phonetic": "ˈsʌni",
+      "id": 101
+    },
+    {
+      "word": "with",
+      "phonetic": "wɪð",
+      "id": 102
+    },
+    {
+      "word": "temperature",
+      "phonetic": "ˈtɛmp(ə)rətʃə",
+      "id": 103
+    },
+    {
+      "word": "28",
+      "id": 104
+    },
+    {
+      "word": "32c",
+      "id": 105
+    },
+    {
+      "word": "full",
+      "phonetic": "fʊl",
+      "id": 106
+    },
+    {
+      "word": "tourists",
+      "phonetic": "ˈtʊərɪst",
+      "id": 107
+    },
+    {
+      "word": "summer",
+      "phonetic": "ˈsʌmə",
+      "id": 108
+    },
+    {
+      "word": "june",
+      "phonetic": "dʒuːn",
+      "id": 109
+    },
+    {
+      "word": "july",
+      "phonetic": "dʒʊˈlʌɪ",
+      "id": 110
+    },
+    {
+      "word": "visitors",
+      "phonetic": "ˈvɪzɪtə",
+      "id": 111
+    },
+    {
+      "word": "winter",
+      "phonetic": "ˈwɪntə",
+      "id": 112
+    },
+    {
+      "word": "november",
+      "phonetic": "nə(ʊ)ˈvɛmbə",
+      "id": 113
+    },
+    {
+      "word": "january",
+      "phonetic": "ˈdʒanjʊ(ə)ri",
+      "id": 114
+    },
+    {
+      "word": "europe",
+      "id": 115
+    },
+    {
+      "word": "asia",
+      "id": 116
+    },
+    {
+      "word": "talk",
+      "phonetic": "tɔːk",
+      "id": 117
+    },
+    {
+      "word": "mean",
+      "phonetic": "miːn",
+      "id": 118
+    },
+    {
+      "word": "about",
+      "phonetic": "əˈbaʊt",
+      "id": 119
+    },
+    {
+      "word": "positive",
+      "phonetic": "ˈpɒzɪtɪv",
+      "id": 120
+    },
+    {
+      "word": "those",
+      "phonetic": "ðat",
+      "id": 121
+    },
+    {
+      "word": "decisions",
+      "phonetic": "dɪˈsɪʒ(ə)n",
+      "id": 122
+    },
+    {
+      "word": "decisions",
+      "phonetic": "dɪˈsɪʒ(ə)n",
+      "id": 123
+    },
+    {
+      "word": "whose",
+      "phonetic": "huːz",
+      "id": 124
+    },
+    {
+      "word": "consequences",
+      "phonetic": "ˈkɒnsɪkw(ə)ns",
+      "id": 125
+    },
+    {
+      "word": "affect",
+      "phonetic": "əˈfɛkt",
+      "id": 126
+    },
+    {
+      "word": "lives",
+      "phonetic": "lʌɪf",
+      "id": 127
+    },
+    {
+      "word": "good",
+      "phonetic": "ɡʊd",
+      "id": 128
+    },
+    {
+      "word": "grow",
+      "phonetic": "ɡrəʊ",
+      "id": 129
+    },
+    {
+      "word": "human",
+      "phonetic": "ˈhjuːmən",
+      "id": 130
+    },
+    {
+      "word": "beings",
+      "phonetic": "ˈbiːɪŋ",
+      "id": 131
+    },
+    {
+      "word": "course",
+      "phonetic": "kɔːs",
+      "id": 132
+    },
+    {
+      "word": "there",
+      "phonetic": "ðɛː",
+      "id": 133
+    },
+    {
+      "word": "are",
+      "phonetic": "ɑː",
+      "id": 134
+    },
+    {
+      "word": "some",
+      "phonetic": "sʌm",
+      "id": 135
+    },
+    {
+      "word": "transcendental",
+      "phonetic": "ˌtransɛnˈdɛnt(ə)l",
+      "id": 136
+    },
+    {
+      "word": "situations",
+      "phonetic": "sɪtjʊˈeɪʃ(ə)n",
+      "id": 137
+    },
+    {
+      "word": "moments",
+      "phonetic": "ˈməʊm(ə)nt",
+      "id": 138
+    },
+    {
+      "word": "which",
+      "phonetic": "wɪtʃ",
+      "id": 139
+    },
+    {
+      "word": "must",
+      "phonetic": "mʌst",
+      "id": 140
+    },
+    {
+      "word": "best",
+      "phonetic": "bɛst",
+      "id": 141
+    },
+    {
+      "word": "possible",
+      "phonetic": "ˈpɒsɪb(ə)l",
+      "id": 142
+    },
+    {
+      "word": "decisions",
+      "phonetic": "dɪˈsɪʒ(ə)n",
+      "id": 143
+    },
+    {
+      "word": "healthy",
+      "phonetic": "ˈhɛlθi",
+      "id": 144
+    },
+    {
+      "word": "empathy",
+      "phonetic": "ˈɛmpəθi",
+      "id": 145
+    },
+    {
+      "word": "skill",
+      "phonetic": "skɪl",
+      "id": 146
+    },
+    {
+      "word": "have",
+      "phonetic": "hav",
+      "id": 147
+    },
+    {
+      "word": "that",
+      "phonetic": "ðat",
+      "id": 148
+    },
+    {
+      "word": "helps",
+      "phonetic": "hɛlp",
+      "id": 149
+    },
+    {
+      "word": "better",
+      "phonetic": "ˈbɛtə",
+      "id": 150
+    },
+    {
+      "word": "relationships",
+      "phonetic": "rɪˈleɪʃ(ə)nʃɪp",
+      "id": 151
+    },
+    {
+      "word": "species",
+      "phonetic": "ˈspiːʃiːz",
+      "id": 152
+    },
+    {
+      "word": "society",
+      "phonetic": "səˈsʌɪɪti",
+      "id": 153
+    },
+    {
+      "word": "community",
+      "phonetic": "kəˈmjuːnɪti",
+      "id": 154
+    },
+    {
+      "word": "empathy",
+      "phonetic": "ˈɛmpəθi",
+      "id": 155
+    },
+    {
+      "word": "ability",
+      "phonetic": "əˈbɪlɪti",
+      "id": 156
+    },
+    {
+      "word": "infer",
+      "phonetic": "ɪnˈfəː",
+      "id": 157
+    },
+    {
+      "word": "perceive",
+      "phonetic": "pəˈsiːv",
+      "id": 158
+    },
+    {
+      "word": "feelings",
+      "phonetic": "ˈfiːlɪŋ",
+      "id": 159
+    },
+    {
+      "word": "thoughts",
+      "phonetic": "θɔːt",
+      "id": 160
+    },
+    {
+      "word": "emotions",
+      "phonetic": "ɪˈməʊʃ(ə)n",
+      "id": 161
+    },
+    {
+      "word": "others",
+      "phonetic": "ˈʌðə",
+      "id": 162
+    },
+    {
+      "word": "recognition",
+      "phonetic": "rɛkəɡˈnɪʃ(ə)n",
+      "id": 163
+    },
+    {
+      "word": "that",
+      "phonetic": "ðat",
+      "id": 164
+    },
+    {
+      "word": "peer",
+      "phonetic": "pɪə",
+      "id": 165
+    },
+    {
+      "word": "similar",
+      "phonetic": "ˈsɪmɪlə",
+      "id": 166
+    },
+    {
+      "word": "individual",
+      "phonetic": "ɪndɪˈvɪdʒʊ(ə)l",
+      "id": 167
+    },
+    {
+      "word": "mind",
+      "phonetic": "mʌɪnd",
+      "id": 168
+    },
+    {
+      "word": "own",
+      "phonetic": "əʊn",
+      "id": 169
+    },
+    {
+      "word": "that",
+      "phonetic": "ðat",
+      "id": 170
+    },
+    {
+      "word": "why",
+      "phonetic": "wʌɪ",
+      "id": 171
+    },
+    {
+      "word": "acknowledging",
+      "phonetic": "əkˈnɒlɪdʒ",
+      "id": 172
+    },
+    {
+      "word": "this",
+      "phonetic": "ðɪs",
+      "id": 173
+    },
+    {
+      "word": "vital",
+      "phonetic": "ˈvʌɪt(ə)l",
+      "id": 174
+    },
+    {
+      "word": "for",
+      "id": 175
+    },
+    {
+      "word": "social",
+      "phonetic": "ˈsəʊʃ(ə)l",
+      "id": 176
+    },
+    {
+      "word": "life",
+      "phonetic": "lʌɪf",
+      "id": 177
+    },
+    {
+      "word": "does",
+      "phonetic": "duː",
+      "id": 178
+    },
+    {
+      "word": "matter",
+      "phonetic": "ˈmatə",
+      "id": 179
+    },
+    {
+      "word": "we're",
+      "phonetic": "wɪə",
+      "id": 180
+    },
+    {
+      "word": "quality",
+      "phonetic": "ˈkwɒlɪti",
+      "id": 181
+    },
+    {
+      "word": "born",
+      "phonetic": "bɔːn",
+      "id": 182
+    },
+    {
+      "word": "be",
+      "phonetic": "biː",
+      "id": 183
+    },
+    {
+      "word": "developed",
+      "phonetic": "dɪˈvɛləpt",
+      "id": 184
+    },
+    {
+      "word": "just",
+      "phonetic": "dʒʌst",
+      "id": 185
+    },
+    {
+      "word": "naturally",
+      "phonetic": "ˈnatʃ(ə)rəli",
+      "id": 186
+    },
+    {
+      "word": "more",
+      "phonetic": "mɔː",
+      "id": 187
+    },
+    {
+      "word": "empathic",
+      "phonetic": "ɛmˈpaθɪk",
+      "id": 188
+    },
+    {
+      "word": "than",
+      "phonetic": "ðan",
+      "id": 189
+    },
+    {
+      "word": "necessary",
+      "phonetic": "ˈnɛsəs(ə)ri",
+      "id": 190
+    },
+    {
+      "word": "practice",
+      "phonetic": "ˈpraktɪs",
+      "id": 191
+    },
+    {
+      "word": "claim",
+      "phonetic": "kleɪm",
+      "id": 192
+    },
+    {
+      "word": "be",
+      "phonetic": "biː",
+      "id": 193
+    },
+    {
+      "word": "many",
+      "phonetic": "ˈmɛni",
+      "id": 194
+    },
+    {
+      "word": "reasons",
+      "phonetic": "ˈriːz(ə)n",
+      "id": 195
+    },
+    {
+      "word": "one",
+      "phonetic": "wʌn",
+      "id": 196
+    },
+    {
+      "word": "main",
+      "phonetic": "meɪn",
+      "id": 197
+    },
+    {
+      "word": "ones",
+      "phonetic": "wʌn",
+      "id": 198
+    },
+    {
+      "word": "help",
+      "phonetic": "hɛlp",
+      "id": 199
+    },
+    {
+      "word": "understanding",
+      "phonetic": "ʌndəˈstandɪŋ",
+      "id": 200
+    },
+    {
+      "word": "thus",
+      "phonetic": "ðʌs",
+      "id": 201
+    },
+    {
+      "word": "associations",
+      "phonetic": "əsəʊʃɪˈeɪʃ(ə)n",
+      "id": 202
+    },
+    {
+      "word": "out",
+      "phonetic": "aʊt",
+      "id": 203
+    },
+    {
+      "word": "may",
+      "phonetic": "meɪ",
+      "id": 204
+    },
+    {
+      "word": "formed",
+      "phonetic": "fɔːm",
+      "id": 205
+    },
+    {
+      "word": "love",
+      "phonetic": "lʌv",
+      "id": 206
+    },
+    {
+      "word": "inference",
+      "phonetic": "ˈɪnf(ə)r(ə)ns",
+      "id": 207
+    },
+    {
+      "word": "solidarity",
+      "phonetic": "ˌsɒlɪˈdarɪti",
+      "id": 208
+    },
+    {
+      "word": "business",
+      "phonetic": "ˈbɪznəs",
+      "id": 209
+    },
+    {
+      "word": "form",
+      "phonetic": "fɔːm",
+      "id": 210
+    },
+    {
+      "word": "commitment",
+      "phonetic": "kəˈmɪtm(ə)nt",
+      "id": 211
+    },
+    {
+      "word": "cultural",
+      "phonetic": "ˈkʌltʃ(ə)r(ə)l",
+      "id": 212
+    },
+    {
+      "word": "influences",
+      "phonetic": "ˈɪnflʊəns",
+      "id": 213
+    },
+    {
+      "word": "influence",
+      "phonetic": "ˈɪnflʊəns",
+      "id": 214
+    },
+    {
+      "word": "interpersonal",
+      "phonetic": "ɪntəˈpəːs(ə)n(ə)l",
+      "id": 215
+    },
+    {
+      "word": "among",
+      "phonetic": "əˈmʌŋ",
+      "id": 216
+    },
+    {
+      "word": "contexts",
+      "phonetic": "ˈkɒntɛkst",
+      "id": 217
+    },
+    {
+      "word": "family",
+      "phonetic": "ˈfamɪli",
+      "id": 218
+    },
+    {
+      "word": "kinship",
+      "phonetic": "ˈkɪnʃɪp",
+      "id": 219
+    },
+    {
+      "word": "relations",
+      "phonetic": "rɪˈleɪʃ(ə)n",
+      "id": 220
+    },
+    {
+      "word": "friendship",
+      "phonetic": "ˈfrɛn(d)ʃɪp",
+      "id": 221
+    },
+    {
+      "word": "marriage",
+      "phonetic": "ˈmarɪdʒ",
+      "id": 222
+    },
+    {
+      "word": "associates",
+      "id": 223
+    },
+    {
+      "word": "work",
+      "phonetic": "wəːk",
+      "id": 224
+    },
+    {
+      "word": "clubs",
+      "phonetic": "klʌb",
+      "id": 225
+    },
+    {
+      "word": "neighborhoods",
+      "phonetic": "ˈneɪbəhʊd",
+      "id": 226
+    },
+    {
+      "word": "places",
+      "phonetic": "pleɪs",
+      "id": 227
+    },
+    {
+      "word": "worship",
+      "phonetic": "ˈwəːʃɪp",
+      "id": 228
+    }
+  ]
+}
